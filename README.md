@@ -9,5 +9,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-bd&langs_count=8&hide=html,css&layout=compact" height="180" />
 
-<h2>LinkedIn: [https://www.linkedin.com/in/armanhossain](https://www.linkedin.com/in/armanhossain)</h2>
+<h2>LinkedIn: <a href="https://www.linkedin.com/in/armanhossain">https://www.linkedin.com/in/armanhossain</a></h2>
 <h2>Portfolio: <a href="https://arman-bd.github.io/">https://arman-bd.github.io</a></h2>
