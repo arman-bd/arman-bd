@@ -7,7 +7,7 @@
 <!-- <h3>HackerRank Badges: <a href="https://www.hackerrank.com/arman_bd">hackerrank.com/arman_bd</a></h3>
 <a href="https://www.hackerrank.com/arman_bd"><img src="https://i.imgur.com/EfpyZja.png" /></a> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-bd&langs_count=8&hide=html,css&layout=compact" height="180" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-bd&langs_count=8&hide=html,css&layout=compact" height="180" /> -->
 
 <h2>LinkedIn: <a href="https://www.linkedin.com/in/armanhossain">https://www.linkedin.com/in/armanhossain</a></h2>
 <h2>Portfolio: <a href="https://arman-bd.github.io/">https://arman-bd.github.io</a></h2>
