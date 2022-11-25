@@ -9,25 +9,25 @@
 Here are a few things I've picked up along my learning journey.
 
 ### Languages
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=py,javascript,typescript,java,kotlin,c,cpp,cs,php,ruby,dart" /></a>
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=py,javascript,typescript,java,kotlin,c,cpp,cs,php,ruby,dart" alt="Python, JavaScript, TypeScript, Java, Kotlin, C, C++, C#, PHP, Ruby, Dart" /></a>
 
 ### Backend
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=5&i=fastapi,express,nestjs,laravel,spring,dotnet,graphql" /></a>
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=5&i=fastapi,express,nestjs,laravel,spring,dotnet,graphql" alt="FastAPI, Express, Nest.js, Laravel, Springboot, .Net, Apollo GraphQL" /></a>
 
 ### Frontend
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vue,react,nextjs,jquery,electron,bootstrap" /></a>
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vue,react,nextjs,jquery,electron,bootstrap" alt="Vue.js, React, Next.js, jQuery, Electron, Bootstrap" /></a>
 
 ### Databases
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=mysql,postgres,mongodb,firebase,sqlite" /></a>
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=mysql,postgres,mongodb,firebase,sqlite" alt="MySQL, PostgreSQL, MongoDB, Firebase, SQLite" /></a>
 
 ### Cloud
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=aws,azure,gcp,heroku" /></a>
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=aws,azure,gcp,heroku" alt="Amazon Web Service, Microsoft Azure, Google Cloud Provider, Salesforce Heroku" /></a>
 
 ### DevOps
-<img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=docker,kubernetes,github,cloudflare" />
+<img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=docker,kubernetes,github,cloudflare,nginx" alt="Docker, Kubernetes, GitHub Actions, CloudFlare, Nginx" />
 
 ### Tools and Others
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vscode,vercel,selenium,git,gitlab,androidstudio" /></a>
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vscode,vercel,selenium,git,gitlab,androidstudio" alt="VS Code, Vercel, Selenium, Git, Gitlab, Android Studio" /></a>
 
 ## Some Stats
 
