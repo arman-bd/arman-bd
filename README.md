@@ -24,7 +24,7 @@ Here are a few things I've picked up along my learning journey.
 <a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=aws,azure,gcp,heroku" alt="Amazon Web Service, Microsoft Azure, Google Cloud Provider, Salesforce Heroku" /></a>
 
 ### DevOps
-<img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=docker,kubernetes,github,cloudflare,nginx" alt="Docker, Kubernetes, GitHub Actions, CloudFlare, Nginx" />
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=docker,kubernetes,github,cloudflare,nginx" alt="Docker, Kubernetes, GitHub Actions, CloudFlare, Nginx" /></a>
 
 ### Tools and Others
 <a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vscode,vercel,selenium,git,gitlab,androidstudio" alt="VS Code, Vercel, Selenium, Git, Gitlab, Android Studio" /></a>
