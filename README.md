@@ -1,33 +1,33 @@
-## Hi there, I'm Arman Hossain 👋
-
-* I'm a Software Engineer and Full Stack Developer
-* I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
-* I'm currently working as the Chief Technology Officer at [HelloTask](https://hellotask.app/).
+# Hi there, I'm Arman Hossain 👋
+## I'm a Software Engineer and Full Stack Developer
+* I'm a passionate learner who's always willing to learn and work across technologies and domains. 
+* I love to explore new technologies and leverage them to solve real-life problems.
+* I'm Currently working as the Chief Technology Officer of [HelloTask](https://hellotask.app/).
 * My current focus is on building scalable and robust applications using the latest technologies. 
 
-# Tools and Technologies
+## Tools and Technologies
 Here are a few things I've picked up along my learning journey.
 
 ### Languages
-<img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=py,javascript,typescript,java,kotlin,c,cpp,cs,php,ruby,dart" />
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=py,javascript,typescript,java,kotlin,c,cpp,cs,php,ruby,dart" /></a>
 
 ### Backend
-<img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=fastapi,express,nestjs,laravel,spring,dotnet,graphql" />
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=5&i=fastapi,express,nestjs,laravel,spring,dotnet,graphql" /></a>
 
 ### Frontend
-<img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vue,react,nextjs,jquery,electron,bootstrap" />
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vue,react,nextjs,jquery,electron,bootstrap" /></a>
 
 ### Databases
-<img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=mysql,postgres,mongodb,firebase,sqlite" />
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=mysql,postgres,mongodb,firebase,sqlite" /></a>
 
 ### Cloud
-<img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=aws,azure,gcp,heroku" />
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=aws,azure,gcp,heroku" /></a>
 
 ### DevOps
 <img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=docker,kubernetes,github,cloudflare" />
 
 ### Tools and Others
-<img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vscode,vercel,selenium,github,gitlab,androidstudio" />
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vscode,vercel,selenium,github,gitlab,androidstudio" /></a>
 
 ## Some Stats
 
