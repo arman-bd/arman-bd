@@ -27,7 +27,7 @@ Here are a few things I've picked up along my learning journey.
 <img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=docker,kubernetes,github,cloudflare" />
 
 ### Tools and Others
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vscode,vercel,selenium,github,gitlab,androidstudio" /></a>
+<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vscode,vercel,selenium,git,gitlab,androidstudio" /></a>
 
 ## Some Stats
 
