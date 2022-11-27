@@ -67,6 +67,10 @@ Here are a few things I've picked up along my learning journey.
 
 <picture><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white"/></picture>
 
+### Project Management
+
+ <picture><img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=Asana&logoColor=white"/></picture>
+
 ### Operating Systems
 
 <picture><img src="https://img.shields.io/badge/Windows%2095-008080.svg?style=for-the-badge&logo=Windows-95&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white"/></picture> <picture><img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/></picture>
