@@ -5,7 +5,7 @@
 * I'm Currently working as the Chief Technology Officer of [HelloTask](https://hellotask.app/).
 * My current focus is on building scalable and robust applications using the latest technologies. 
 
-<p align="center"><h2> [ <a href="https://arman-bd.github.io/">Portfolio</a> ] [ <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> ] [ <a href="https://linkedin.com/in/armanhossain">LinkedIn</a> ] </h2></p>
+<h2 align="center"> [ <a href="https://arman-bd.github.io/">Portfolio</a> ] [ <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> ] [ <a href="https://linkedin.com/in/armanhossain">LinkedIn</a> ] </h2>
 
 ## Tools and Technologies
 
