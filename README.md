@@ -84,7 +84,7 @@ Here are a few things I've picked up along my learning journey.
 <a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api?username=arman-bd&count_private=true&show_icons=true" height="180" /></a></a><a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-bd&langs_count=8&hide=html,css,c&layout=compact" height="180" /></a></a>
 
 
-<p align="center"><h2> [ <a href="https://arman-bd.github.io/">Portfolio</a> ] [ <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> ] [ <a href="https://linkedin.com/in/armanhossain">LinkedIn</a> ] </h2></p>
+<h2 align="center"> [ <a href="https://arman-bd.github.io/">Portfolio</a> ] [ <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> ] [ <a href="https://linkedin.com/in/armanhossain">LinkedIn</a> ] </h2>
 
 
 
