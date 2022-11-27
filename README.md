@@ -82,7 +82,9 @@ Here are a few things I've picked up along my learning journey.
 <a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api?username=arman-bd&count_private=true&show_icons=true" height="180" /></a></a><a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-bd&langs_count=8&hide=html,css,c&layout=compact" height="180" /></a></a>
 
 
-<h2>Portfolio: <a href="https://arman-bd.github.io/">https://arman-bd.github.io</a></h2>
+<h1> [Portfolio](https://arman-bd.github.io/) | [Resume](https://arman-bd.github.io/resume_of_arman_hossain.pdf) | [LinkedIn](https://linkedin.com/in/armanhossain) </h1>
+
+
 
 <!-- <h3>HackerRank Badges: <a href="https://www.hackerrank.com/arman_bd">hackerrank.com/arman_bd</a></h3>
 <a href="https://www.hackerrank.com/arman_bd"><a id="plx" href="#plx"><img src="https://i.imgur.com/EfpyZja.png" /></a></a> -->
