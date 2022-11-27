@@ -6,28 +6,54 @@
 * My current focus is on building scalable and robust applications using the latest technologies. 
 
 ## Tools and Technologies
+
 Here are a few things I've picked up along my learning journey.
 
-### Languages
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=py,javascript,typescript,java,kotlin,c,cpp,cs,php,ruby,dart" alt="Python, JavaScript, TypeScript, Java, Kotlin, C, C++, C#, PHP, Ruby, Dart" /></a>
+### Programming Languages
 
-### Backend
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=5&i=fastapi,express,nestjs,laravel,spring,dotnet,graphql" alt="FastAPI, Express, Nest.js, Laravel, Springboot, .Net, Apollo GraphQL" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white"/>
 
-### Frontend
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vue,react,nextjs,jquery,electron,bootstrap" alt="Vue.js, React, Next.js, jQuery, Electron, Bootstrap" /></a>
 
-### Databases
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=mysql,postgres,mongodb,firebase,sqlite" alt="MySQL, PostgreSQL, MongoDB, Firebase, SQLite" /></a>
+### Backend Technologies
 
-### Cloud
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=aws,azure,gcp,heroku" alt="Amazon Web Service, Microsoft Azure, Google Cloud Provider, Salesforce Heroku" /></a>
+<img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white"/>
 
-### DevOps
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=docker,kubernetes,github,cloudflare,nginx" alt="Docker, Kubernetes, GitHub Actions, CloudFlare, Nginx" /></a>
 
-### Tools and Others
-<a href="#"><img src="https://skills.thijs.gg/icons?theme=light&perline=6&i=vscode,vercel,selenium,git,gitlab,androidstudio" alt="VS Code, Vercel, Selenium, Git, Gitlab, Android Studio" /></a>
+### Frontend Technologies
+
+<img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+
+### Mobile Technologies
+
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+
+### Database Technologies
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>
+
+### Cloud Platforms
+
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white"/> <img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
+
+### DevOps Tools
+
+<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/> <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF.svg?style=for-the-badge&logo=Travis-CI&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white"/>
+
+### Automation Tools
+
+<img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=Playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/Insomnia-5849BE.svg?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+
+### IDE and Editors
+
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white"/> 
+
+ ### Version Control
+
+<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
+
+### Operating Systems
+
+<img src="https://img.shields.io/badge/Windows%2095-008080.svg?style=for-the-badge&logo=Windows-95&logoColor=white"/> <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Lubuntu-0068C8.svg?style=for-the-badge&logo=Lubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577.svg?style=for-the-badge&logo=CentOS&logoColor=white"/> <img src="https://img.shields.io/badge/Pop!_OS-48B9C7.svg?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
 
 ## Some Stats
 
