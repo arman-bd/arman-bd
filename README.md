@@ -2,9 +2,6 @@
 
 ## I'm a Software Engineer and Full Stack Developer
 
-<style>
- table {border: none;}
-</style>
 <table border="0">
  <tr border="0">
   <td border="0" width="70%">
