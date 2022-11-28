@@ -2,27 +2,15 @@
 
 ## I'm a Software Engineer and Full Stack Developer
 
-<table border="0">
- <tr border="0">
-  <td border="0" width="70%">
-   
-   * I'm a passionate learner who's always willing to learn and work across technologies and domains.
-   
-   * I love to explore new technologies and leverage them to solve real-life problems.
-   
-   * I'm Currently working as the Chief Technology Officer of [HelloTask](https://hellotask.app/).
-   
-   * My current focus is on building scalable and robust applications using the latest technologies.
-   
-  </td>
-  <td border="0" width="30%">
-   <a href="#"><img src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif" width="250"/></a>
-  </td>
- </tr>
-</table>
+* I'm a passionate learner who's always willing to learn and work across technologies and domains.
+* I love to explore new technologies and leverage them to solve real-life problems.
+* I'm Currently working as the Chief Technology Officer of [HelloTask](https://hellotask.app/).
+* My current focus is on building scalable and robust applications using the latest technologies.
+
+<a href="#"><img align="center" src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif" width="300"/></a>
 
 
-<h2 align="center"> [ <a href="https://arman-bd.github.io/">Portfolio</a> ] [ <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> ] [ <a href="https://linkedin.com/in/armanhossain">LinkedIn</a> ] </h2>
+<h2 align="center"><a href="https://arman-bd.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> | <a href="https://linkedin.com/in/armanhossain">LinkedIn</a></h2>
 
 
 ## Tools and Technologies
@@ -102,7 +90,7 @@ Here are a few things I've picked up along my learning journey.
 <a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api?username=arman-bd&count_private=true&show_icons=true" height="180" /></a></a><a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-bd&langs_count=8&hide=html,css,c&layout=compact" height="180" /></a></a>
 
 
-<h2 align="center"> [ <a href="https://arman-bd.github.io/">Portfolio</a> ] [ <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> ] [ <a href="https://linkedin.com/in/armanhossain">LinkedIn</a> ] </h2>
+<h2 align="center"><a href="https://arman-bd.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> | <a href="https://linkedin.com/in/armanhossain">LinkedIn</a></h2>
 
 
 
