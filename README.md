@@ -3,8 +3,9 @@
 ## I'm a Software Engineer and Full Stack Developer
 
 <table border="0">
- <tr>
-  <td>
+ <tr border="0">
+  <td border="0" width="70%">
+   
    * I'm a passionate learner who's always willing to learn and work across technologies and domains.
    
    * I love to explore new technologies and leverage them to solve real-life problems.
@@ -12,8 +13,9 @@
    * I'm Currently working as the Chief Technology Officer of [HelloTask](https://hellotask.app/).
    
    * My current focus is on building scalable and robust applications using the latest technologies.
+   
   </td>
-  <td>
+  <td border="0" width="30%">
    <a href="#"><img src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif" width="250"/></a>
   </td>
  </tr>
