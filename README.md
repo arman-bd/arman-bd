@@ -9,8 +9,7 @@
 
 <p  align="center"><a href="#"><img align="center" src="https://user-images.githubusercontent.com/26208205/204192045-8efb70c1-374c-4dc9-9b08-01135cab3d6e.gif"/></a></p>
 
-<h2 align="center"><a href="https://arman-bd.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a></h2>
-<h2 align="center"><a href="https://linkedin.com/in/armanhossain">LinkedIn</a> | <a href="https://arman-bd.medium.com/">Blog</a></h2>
+<h3 align="center"><a href="https://arman-bd.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> | <a href="https://linkedin.com/in/armanhossain">LinkedIn</a> | <a href="https://arman-bd.medium.com/">Blog</a></h3>
 
 ## Tools and Technologies
 
@@ -88,8 +87,7 @@ Here are a few things I've picked up along my learning journey.
 
 <a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api?username=arman-bd&count_private=true&show_icons=true" height="180" /></a></a><a href="https://github.com/arman-bd"><a href="#some-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-bd&langs_count=8&hide=html,css,c&layout=compact" height="180" /></a></a>
 
-<h2 align="center"><a href="https://arman-bd.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a></h2>
-<h2 align="center"><a href="https://linkedin.com/in/armanhossain">LinkedIn</a> | <a href="https://arman-bd.medium.com/">Blog</a></h2>
+<h3 align="center"><a href="https://arman-bd.github.io/">Portfolio</a> | <a href="https://arman-bd.github.io/resume_of_arman_hossain.pdf">Resume</a> | <a href="https://linkedin.com/in/armanhossain">LinkedIn</a> | <a href="https://arman-bd.medium.com/">Blog</a></h3>
 
 <!-- <h3>HackerRank Badges: <a href="https://www.hackerrank.com/arman_bd">hackerrank.com/arman_bd</a></h3>
 <a href="https://www.hackerrank.com/arman_bd"><a id="plx" href="#plx"><img src="https://i.imgur.com/EfpyZja.png" /></a></a> -->
