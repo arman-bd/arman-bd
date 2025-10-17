@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arman Hossain
 
-I'm a professional web scraper and data extraction expert with years of hands-on experience turning the web's scattered data into structured, actionable insights.
+I’m a professional web scraper and data extraction specialist with years of practical experience transforming scattered web data into structured, actionable insights. I follow a simple rule: if you can see it, there’s a way to extract it.
 
 ## 🧠 What I work on
 
@@ -21,7 +21,7 @@ I'm a professional web scraper and data extraction expert with years of hands-on
 
 **Database Engine:** PostgreSQL, MySQL, MongoDB, Redis
 
-**Cloud & DevOps:** AWS, Docker, Kubernetes, NGINX
+**Cloud & DevOps:** GCP, AWS, Azure, Docker
 
 ---
 
