@@ -11,7 +11,7 @@ I’m a professional web scraper and data extraction specialist with years of pr
 
 ## 🛠️ Tech I enjoy working with
 
-**Programming Language:** Python, JavaScript, Ruby, TypeScript
+**Programming Language:** Python, JavaScript, TypeScript, Ruby
 
 **Browser Automation:** Playwright, Puppeteer, Selenium, Nodriver, Camoufox, Ulixee/Hero
 
@@ -19,7 +19,7 @@ I’m a professional web scraper and data extraction specialist with years of pr
 
 **Frontend Framework:** Vue (TypeScript), React (TypeScript), Next.js
 
-**Database Engine:** PostgreSQL, MySQL, MongoDB, Redis
+**Database Engine:** PostgreSQL, MySQL, MongoDB, Neo4j, Redis
 
 **Cloud & DevOps:** GCP, AWS, Azure, Docker
 
