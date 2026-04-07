@@ -11,9 +11,9 @@ I'm a professional web scraper and data extraction specialist turned AI practiti
 
 - 📊 **Data Pipelines**: Product data, pricing monitors, market research, logistics & transport
 
-- 🧩 **Agentic AI & Small-Scale ML**: Building lightweight autonomous agents, tool-use workflows, and fine-tuned models that act on extracted data — not just store it
+- 🧩 **Agentic AI & Small-Scale ML**: Building lightweight autonomous agents and tool-use workflows
 
-- 🔬 **Applied ML**: Training compact models for classification, entity extraction, and anomaly detection on real-world scraped datasets
+- 🔬 **Applied ML**: Training compact models for classification, entity extraction, and anomaly detection
 
 ## 🛠️ Tech I enjoy working with
 
@@ -21,15 +21,13 @@ I'm a professional web scraper and data extraction specialist turned AI practiti
 
 **Browser Automation:** Playwright, Puppeteer, Selenium, Nodriver, Camoufox, Ulixee/Hero
 
-**ML & AI:** PyTorch, scikit-learn, Hugging Face Transformers, LangChain, LlamaIndex, OpenAI & Anthropic APIs
-
-**Agentic Frameworks:** CrewAI, AutoGen, custom tool-use agents
+**ML & AI:** PyTorch, scikit-learn, Hugging Face Transformers, LangChain, OpenAI API's
 
 **Backend Framework:** FastAPI, Express, NestJS, Ruby on Rails
 
 **Frontend Framework:** Vue (TypeScript), React (TypeScript), Next.js
 
-**Database Engine:** PostgreSQL, MySQL, MongoDB, Neo4j, Redis
+**Database Engine:** PostgreSQL, MySQL, MongoDB, BigQuery, Neo4j, Redis
 
 **Cloud & DevOps:** GCP, AWS, Azure, Docker
 
