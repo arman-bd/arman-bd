@@ -32,4 +32,4 @@ I'm a professional web scraper and data extraction specialist turned AI practiti
 **Cloud & DevOps:** GCP, AWS, Azure, Docker
 
 ---
-For more information, please visit: https://gravatar.com/armanfixes
+For more information, please visit: https://arman-bd.github.io
