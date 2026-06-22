@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Arman Hossain
-I'm a professional web scraper and data extraction specialist turned AI practitioner — with years of experience transforming scattered web data into structured, actionable insights. I follow a simple rule: if you can see it, there's a way to extract it — and if you can extract it, you can teach a model to reason over it.
+I'm a professional web scraper and data extraction specialist turned AI practitioner with years of experience transforming scattered web data into structured, actionable insights. I follow a simple rule: if you can see it, there's a way to extract it; if you can extract it, you can teach a model to reason over it.
 
 ## 🧠 What I work on
 
 - 🌐 **Web Scraping & Data Extraction**: Simple HTTP requests to complex browser automation and AI-powered pipelines
 
-- 🤖 **Browser Automation**: Playwright, Puppeteer, Selenium — making browsers do the heavy lifting
+- 🤖 **Browser Automation**: Playwright, Puppeteer, Selenium, making browsers do the heavy lifting
 
 - 🔒 **Anti-Bot Solutions**: API interception, proxy management, and circumvention techniques
 
